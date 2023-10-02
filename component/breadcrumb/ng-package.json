@@ -3,5 +3,6 @@
   "dest": "../../dist/component/breadcrumb",
   "lib": {
     "entryFile": "src/index.ts"
-  }
+  },
+  "allowedNonPeerDependencies": ["ng-zorro-antd", "angular"]
 }
