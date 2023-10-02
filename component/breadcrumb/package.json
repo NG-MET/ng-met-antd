@@ -1,6 +1,10 @@
 {
   "name": "ng-met-antd/breadcrumb",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NG-MET/ng-met-antd.git"
+  },
   "peerDependencies": {
     "@angular/common": "^16.2.0",
     "@angular/core": "^16.2.0"
